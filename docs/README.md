@@ -1,0 +1,2 @@
+# ◉ Bound Overview
+Recent sandbox games such as Minecraft and Garry's Mod allow users to create unique experiences through the power of modding. My goal for this project is to combine RPGs' style with a limitless and intuitive, programmable interface.
